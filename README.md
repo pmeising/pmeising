@@ -13,8 +13,10 @@
 
 - 😄 Pronouns: He/Him
 
-- Part of my toolbox:
+Part of my toolbox:
+
 [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
 
 Future learnings include:
+
 [![Future Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
