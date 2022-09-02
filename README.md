@@ -1,4 +1,8 @@
-:book: I am currently working the projects of the 42 Core Curriculum
+
+:book: I am currently working on the projects of the 42 Core Curriculum
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
