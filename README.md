@@ -13,4 +13,5 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: ...
+- What I have learned to work with so far: 
+[![My Skills](https://skillicons.dev/iconsC)](https://skillicons.dev)
