@@ -17,4 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
 
 Future learnings include:
-[![Future Skills](https://skillicons.dev/icons?i=c++,python)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
