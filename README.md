@@ -13,5 +13,8 @@
 
 - 😄 Pronouns: He/Him
 
-- What I have learned to work with so far: 
-[![My Skills](https://skillicons.dev/iconsAWS)](https://skillicons.dev)
+- Part of my toolbox:
+[![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+
+Future learnings include:
+[![Future Skills](https://skillicons.dev/icons?i=c++,python)](https://skillicons.dev)
