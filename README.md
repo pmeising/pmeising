@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Welcome%20to%20my%20github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=40)
 
 
 - :book: I am currently working on the projects of the 42 Core Curriculum
@@ -40,4 +40,4 @@ API credits:
 - https://github.com/kyechan99/capsule-render
 - https://github.com/tandpfun/skill-icons
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=^_^&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=^_^&fontSize=40)
