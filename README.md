@@ -26,9 +26,13 @@ Future learnings include:
 
 # Core Curriculum Progress as of September 3rd. 2022 #
 
-- `rgb(9, 105, 218)` Started Projects: 25th. of April 2022
+- :running: **Started Projects:** 
 
-- `rgb(9, 105, 218)` Average speed: 22.1 hrs/week ~ 3.18 hrs/day
+            > 25th. of April 2022
+
+- :alarm_clock: **Average speed:** 
+      
+            > 22.1 hrs/week ~ 3.18 hrs/day
 
 ![image](https://user-images.githubusercontent.com/96015618/188263653-0ffcef81-4771-4a52-8959-c6b3bb826298.png)
 
