@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Welcome%20to%20my%20github&fontSize=40)
+
 
 - :book: I am currently working on the projects of the 42 Core Curriculum
 
@@ -24,12 +26,18 @@ Future learnings include:
 
 # Core Curriculum Progress as of September 3rd. 2022 #
 
-- Started Projects: 25th. of April 2022
+- `rgb(9, 105, 218)` Started Projects: 25th. of April 2022
 
-- Average speed: 22.1 hrs/week ~ 3.18 hrs/day
+- `rgb(9, 105, 218)` Average speed: 22.1 hrs/week ~ 3.18 hrs/day
 
 ![image](https://user-images.githubusercontent.com/96015618/188263653-0ffcef81-4771-4a52-8959-c6b3bb826298.png)
 
 # Skills acquired: #
 
 ![image](https://user-images.githubusercontent.com/96015618/188263600-7b68e295-b230-4352-8ebc-37442498e115.png)
+
+API credits:
+- https://github.com/kyechan99/capsule-render
+- https://github.com/tandpfun/skill-icons
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=^_^&fontSize=40)
