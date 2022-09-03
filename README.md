@@ -24,6 +24,10 @@ Future learnings include:
 
 # Core Curriculum Progress as of September 3rd. 2022 #
 
+- Started Projects: 25th. of April 2022
+
+- Average speed: 22.1 hrs/week ~ 3.18 hrs/day
+
 ![image](https://user-images.githubusercontent.com/96015618/188263653-0ffcef81-4771-4a52-8959-c6b3bb826298.png)
 
 # Skills acquired: #
