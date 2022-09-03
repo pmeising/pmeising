@@ -17,11 +17,11 @@
 
 Part of my toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode)](https://skillicons.dev)
 
 Future learnings include:
 
-[![Future Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
 
 
 # Core Curriculum Progress as of September 3rd. 2022 #
