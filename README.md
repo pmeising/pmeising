@@ -26,6 +26,6 @@ Future learnings include:
 
 ![image](https://user-images.githubusercontent.com/96015618/188263653-0ffcef81-4771-4a52-8959-c6b3bb826298.png)
 
-Skills acquired:
+# Skills acquired: #
 
 ![image](https://user-images.githubusercontent.com/96015618/188263600-7b68e295-b230-4352-8ebc-37442498e115.png)
