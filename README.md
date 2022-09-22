@@ -3,7 +3,7 @@
 
 - :book: I am currently working on the projects of the 42 Core Curriculum
 
-- 🌱 I’m currently learning how to handle multiple threads on a single process
+- 🌱 I’m currently learning how the Bash Shell works and how to make a clone of it
 
 - 👯 I’m looking to collaborate on climate solutions
 
