@@ -24,7 +24,7 @@ Future learnings include:
 [![Future Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
 
 
-# Core Curriculum Progress as of September 3rd. 2022 #
+# Core Curriculum Progress as of September 22nd. 2022 #
 
 - :running: **Started Projects:** 
 
@@ -34,7 +34,7 @@ Future learnings include:
       
             > 22.1 hrs/week ~ 3.18 hrs/day
 
-![image](https://user-images.githubusercontent.com/96015618/188263653-0ffcef81-4771-4a52-8959-c6b3bb826298.png)
+![image](https://user-images.githubusercontent.com/96015618/191755784-3e0e17d0-1a23-4b3d-af5a-44dfe83a764d.png)
 
 # Skills acquired: #
 
