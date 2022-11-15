@@ -34,7 +34,7 @@ Future learnings include:
       
             > 22.1 hrs/week ~ 3.18 hrs/day
 
-![image](![image](https://user-images.githubusercontent.com/96015618/201988850-62669679-4e56-40e7-92c8-b43ee88207d4.png))
+![image](https://user-images.githubusercontent.com/96015618/201988850-62669679-4e56-40e7-92c8-b43ee88207d4.png)
 
 # Skills acquired: #
 
