@@ -3,11 +3,11 @@
 
 - :book: I am currently working on the projects of the 42 Core Curriculum
 
-- 🌱 I’m currently learning how the Bash Shell works and how to make a clone of it
+- 🌱 I’m currently recreating the ancient WOLFENSTEIN 3D game using the raycasting algorithm
 
 - 👯 I’m looking to collaborate on climate solutions
 
-- 🤔 I’m looking for help with improving C programming
+- 🤔 I’m looking for help with improving C and C++ programming
 
 - 💬 Ask me about anything
 
