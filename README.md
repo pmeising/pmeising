@@ -34,11 +34,11 @@ Future learnings include:
       
             > 25 hrs/week
 
-![image](https://user-images.githubusercontent.com/96015618/201988850-62669679-4e56-40e7-92c8-b43ee88207d4.png)
+![image](https://user-images.githubusercontent.com/96015618/214135896-b03d4f83-6aa3-42e5-99d6-648e5d154828.png)
 
 # Skills acquired: #
 
-![image](https://user-images.githubusercontent.com/96015618/188263600-7b68e295-b230-4352-8ebc-37442498e115.png)
+![image](https://user-images.githubusercontent.com/96015618/214136144-14fcdf17-a1b5-4b3a-b49f-edb52bf7d050.png)
 
 API credits:
 - https://github.com/kyechan99/capsule-render
