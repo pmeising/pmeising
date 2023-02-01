@@ -26,6 +26,8 @@ Future learnings include:
 
 # Core Curriculum Progress as of January 23rd. 2023 #
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldlow75c01250fkzrcppm0r5/stats?cursusId=21&coalitionId=151" alt="pmeising's 42 stats" /></a>
+
 - :running: **Started Projects:** 
 
             > 25th. of April 2022
