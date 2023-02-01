@@ -45,5 +45,6 @@ Future learnings include:
 API credits:
 - https://github.com/kyechan99/capsule-render
 - https://github.com/tandpfun/skill-icons#readme
+- https://github.com/JaeSeoKim/badge42
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=^_^&fontSize=40)
