@@ -44,5 +44,6 @@ API credits:
 - https://github.com/tandpfun/skill-icons#readme
 - https://github.com/JaeSeoKim/badge42
 - https://github.com/anuraghazra
+- https://github.com/antonkomarev
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=^_^&fontSize=40)
