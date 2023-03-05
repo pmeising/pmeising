@@ -17,7 +17,7 @@
 
 Part of my toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,git,flux)](https://skillicons.dev)
 
 Future learnings include:
 
