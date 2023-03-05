@@ -17,7 +17,7 @@
 
 Part of my toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,git,github,grafana,influxDB,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,git,github,grafana,r,influxDB)](https://skillicons.dev)
 
 Future learnings include:
 
