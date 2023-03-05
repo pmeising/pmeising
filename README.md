@@ -23,6 +23,7 @@ Future learnings include:
 
 [![Future Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=pmeising)
 
 # Core Curriculum Progress as of January 23rd. 2023 #
 
