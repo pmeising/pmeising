@@ -28,6 +28,8 @@ Future learnings include:
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldlow75c01250fkzrcppm0r5/stats?cursusId=21&coalitionId=151" alt="pmeising's 42 stats" /></a>
 
+[![pmeisings's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmeising)](https://github.com/anuraghazra/github-readme-stats)
+
 - :running: **Started Projects:** 
 
             > 25th. of April 2022
@@ -46,5 +48,6 @@ API credits:
 - https://github.com/kyechan99/capsule-render
 - https://github.com/tandpfun/skill-icons#readme
 - https://github.com/JaeSeoKim/badge42
+- https://github.com/anuraghazra
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=^_^&fontSize=40)
