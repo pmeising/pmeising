@@ -11,7 +11,7 @@
 
 - 💬 Ask me anything
 
-- 📫 How to reach me: https://www.linkedin.com/in/philipp-meisinger-523901200/
+- 📫 How to reach me: https://www.linkedin.com/in/pmeising/
 
 - 😄 Pronouns: He/Him
 
