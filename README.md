@@ -31,6 +31,8 @@ Future learnings include:
 
 [![pmeisings's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmeising)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pmeising)](https://git.io/streak-stats)
+
 - :running: **Started Projects:** 
 
             > 25th. of April 2022
@@ -45,5 +47,6 @@ API credits:
 - https://github.com/JaeSeoKim/badge42
 - https://github.com/anuraghazra
 - https://github.com/antonkomarev
+- https://github.com/DenverCoder1/github-readme-streak-stats
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=^_^&fontSize=40)
