@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on climate solutions
 
-- 🤔 I’m looking for help with improving C and C++ programming
+- 🤔 I’m looking for help with improving C++ and R programming
 
 - 💬 Ask me anything
 
