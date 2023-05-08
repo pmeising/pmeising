@@ -3,7 +3,7 @@
 
 - :book: I am currently working on the projects of the 42 Core Curriculum as well as a Machine Learning Degree from opencampus.sh
 
-- 🌱 I’m currently writing an IRC Server in C++ with colleagues from 42
+- 🌱 I’m currently coding a live multiplayer ping pong game with TypeScript and NodeJS with colleagues from 42
 
 - 👯 I’m looking to collaborate on climate solutions
 
