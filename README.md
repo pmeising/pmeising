@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=40)
 
 
-- :book: I am currently working on the projects of the 42 Core Curriculum as well as a Machine Learning Degree from opencampus.sh
+- :book: I am currently studying Data Science and learning about Clustering algorithms as well as doing the courses of the Machine Learning Degree from opencampus.sh
 
-- 🌱 I’m currently coding a live multiplayer ping pong game with TypeScript and NodeJS with colleagues from 42
+- 🌱 I’m playing around with local LLMs with ollama
 
 - 👯 I’m looking to collaborate on climate solutions
 
-- 🤔 I’m looking for help with improving C++ and R programming
+- 🤔 I’m looking for help with improving embedded AI, Python, Data Science Machine Learning skills
 
 - 💬 Ask me anything
 
