@@ -17,11 +17,11 @@
 
 Part of my toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,git,github,grafana,r,influxDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,git,github,grafana,r,influxDB,cpp,python)](https://skillicons.dev)
 
 Future learnings include:
 
-[![Future Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=pmeising)
 
