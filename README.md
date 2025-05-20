@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=40)
 
 
-- :book: I am currently studying Data Science and learning about Clustering algorithms as well as doing the courses of the Machine Learning Degree from opencampus.sh
+- :book: I am currently studying Data Science and learning about Deep Learning frameworks as well as doing the courses of the Machine Learning Degree from opencampus.sh
 
-- 🌱 I’m playing around with local LLMs with ollama
+- 🌱 I’m working on efficient LLM
 
 - 👯 I’m looking to collaborate on climate solutions
 
